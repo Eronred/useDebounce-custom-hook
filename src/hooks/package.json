@@ -1,0 +1,17 @@
+{
+  "name": "use-debounce-custom-hook",
+  "version": "1.0.1",
+  "description": "",
+  "main": "useDebounce.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "useDebounce",
+    "hooks",
+    "react"
+  ],
+  "author": "eronred",
+  "license": "ISC",
+  "peerDependencies": {}
+}
