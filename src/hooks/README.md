@@ -15,6 +15,8 @@ To use the useDebounce hook, pass the input value and debounce timeout as argume
 
 Here is an example of how to use the useDebounce hook in a React component:
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/43992376/209560070-4e1c5d42-5d01-49f8-a7e6-bd8bb4d91ec2.gif)
+
 ```bash
 import { useDebounce } from "use-debounce-custom-hook";
 
